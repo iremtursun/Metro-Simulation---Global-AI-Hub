@@ -4,7 +4,7 @@
 
 Akbank ve Global AI Hub işbirliğinde hazırlanan, Metro Simülasyonu olarak adlandırabileceğimiz bir metro ağında hedeflenen bu proje; test ortamlarında iki istasyon arasındaki en hızlı ve en az aktarmalı rotayı bulmak amaçlanmaktadır.
 
-Dosyanın python koduna **IremTursun_MetroSimulation.py** dosyasından erişebilir ve tasarısı şahsıma ait **metro-simulation-grafs.jpg** görselinden duraklar arasındaki ilişkilendirmeleri inceleyebilirsiniz.
+Dosyanın python koduna **IremTursun_MetroSimulation.py** dosyasından erişebilir ve tasarısı şahsıma ait **metro-simulation-grafs.png** görselinden duraklar arasındaki ilişkilendirmeleri inceleyebilirsiniz.
 
 **Proje Simülasyon Uygulaması**
 
